@@ -36,7 +36,7 @@
 
 #define IMG_ORIENTATION 0x0101
 #define CAM_WIDTH 324
-#define CAM_HEIGHT 244
+#define CAM_HEIGHT 324
 
 static pi_task_t task1;
 static unsigned char *imgBuff;
